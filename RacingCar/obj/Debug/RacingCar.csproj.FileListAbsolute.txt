@@ -1,0 +1,9 @@
+C:\Users\samir\source\repos\RacingCar\RacingCar\obj\Debug\RacingCar.Form1.resources
+C:\Users\samir\source\repos\RacingCar\RacingCar\obj\Debug\RacingCar.Properties.Resources.resources
+C:\Users\samir\source\repos\RacingCar\RacingCar\obj\Debug\RacingCar.csproj.GenerateResource.cache
+C:\Users\samir\source\repos\RacingCar\RacingCar\bin\Debug\RacingCar.exe.config
+C:\Users\samir\source\repos\RacingCar\RacingCar\bin\Debug\RacingCar.exe
+C:\Users\samir\source\repos\RacingCar\RacingCar\bin\Debug\RacingCar.pdb
+C:\Users\samir\source\repos\RacingCar\RacingCar\obj\Debug\RacingCar.exe
+C:\Users\samir\source\repos\RacingCar\RacingCar\obj\Debug\RacingCar.pdb
+C:\Users\samir\source\repos\RacingCar\RacingCar\obj\Debug\RacingCar.csprojAssemblyReference.cache
